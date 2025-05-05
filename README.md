@@ -29,13 +29,12 @@ Electronic Store is an online store that offers a wide range of electronic produ
 4. Add items to your shopping cart.
 5. Use the contact form to reach the store's support team for inquiries.
 
-## Related Documents
-- [Product Catalogue](https://yaraelectronics.com/user/catalogue.pdf): A detailed list of available products.
-- [Warranty Terms](https://yaraelectronics.com/warranty-terms): Information about the store’s warranty policy.
+## Additional Information
 
-## Notes
-- Ensure that your browser supports the features used in the website.
-- Some features may not be fully supported on all browsers or devices.
+   1. This website was developed as a learning project to simulate a basic electronic store.
+   2. It can be accessed using any modern browser such as Google Chrome or Firefox.
+   3. The site does not support real purchases — it's for demo and educational purposes only.
 
-## License
-This project is open source and available under the [MIT License](LICENSE).
+## Usage Rights
+
+This project is free to use. You may copy or modify it for educational or personal use. Giving credit to the original creator is appreciated but not required.
